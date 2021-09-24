@@ -1,4 +1,8 @@
 # Picrew BBCode
+
+## [If you would like to add this to your profile, here is the code to do so.](https://github.com/clxxiii/picrew-bbcode/blob/master/profile_code.bbcode)
+
+## Preview
 [![Revolver Image](/revolver_gif.gif)](https://picrew.me/image_maker/94097)
 
 ### Current Collab Members
